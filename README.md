@@ -11,6 +11,10 @@ If you wish to know more about it, you can refer to [**wttr's** GitHub Repo](htt
 
 If you wish to know more about it, you can refer to [**Requests Module** Documentation](https://docs.python-requests.org/en/master/).
 
+
+## Output:
+
+![Output](https://github.com/aadityaaatreya/Weather-Report/blob/main/output.PNG)
 License:
 ==========================
 Copyright (c) 2022 Aaditya Aatreya
